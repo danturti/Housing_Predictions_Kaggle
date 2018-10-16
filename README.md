@@ -1,3 +1,5 @@
+#### Run above in https://nbviewer.jupyter.org/ - for rendering jupyter notebook(.ipynb) if it fails to run
+
 # Ames Housing Data and Kaggle Challenge - Top 5%
 
 This model will predict the price of a house at sale.
