@@ -1,4 +1,4 @@
-#### Run above in https://nbviewer.jupyter.org/github/danturti/Housing_Predictions_kaggle/tree/master/ - for rendering jupyter notebook(.ipynb) if it fails to render
+###### Run above in https://nbviewer.jupyter.org/github/danturti/Housing_Predictions_kaggle/tree/master/ - for rendering jupyter notebook(.ipynb) if it fails to render
 
 # Ames Housing Data and Kaggle Challenge - Top 5%
 
